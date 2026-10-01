@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Taobao Shipping Cost Estimator (2026) | CFans Guides</title>
+<meta name="description" content="Free taobao shipping calculator with verified 2026 CFans rate samples: estimate Taobao parcel shipping cost by weight and country (USA/UK/Germany), check chargeable weight, and get a live quote before you order."/>
+<style>
+:root{--ink:#1c2733;--muted:#5b6b7c;--accent:#0e7c8c;--line:#e3e9ef;--wash:#f4f8fa;--card:#ffffff}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);line-height:1.7;background:#fff}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:1px solid var(--line);background:var(--wash)}
+header.site .wrap{padding-top:28px;padding-bottom:24px}
+.kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:700;margin:0 0 8px}
+h1{font-size:32px;line-height:1.25;margin:0 0 10px}
+.lead{font-size:18px;color:var(--muted);margin:0 0 6px}
+main .wrap{padding-top:28px;padding-bottom:40px}
+h2{font-size:24px;margin:36px 0 12px;line-height:1.35}
+h3{font-size:19px;margin:26px 0 8px}
+p{margin:0 0 14px}
+p.small{font-size:13.5px;color:var(--muted)}
+ul,ol{margin:0 0 16px;padding-left:24px}
+li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:0 0 20px;font-size:14.5px;display:block;overflow-x:auto}
+thead{display:table-header-group}tbody{display:table-row-group}tr{display:table-row}
+th,td{border:1px solid var(--line);padding:9px 11px;text-align:left;vertical-align:top;display:table-cell}
+th{background:#0e1f3d;color:#fff}
+tr:nth-child(even) td{background:var(--wash)}
+aside.tldr{background:#eef7f9;border-left:4px solid var(--accent);padding:14px 18px;margin:0 0 24px;border-radius:0 8px 8px 0}
+aside.box{background:var(--wash);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin:0 0 20px}
+aside.box.note{border-left:4px solid #d9a441}
+aside.box.warning{border-left:4px solid #c0392b}
+aside.box.verdict{background:#eafaf0;border-color:#bfe6cd}
+aside.cta{background:#0e1f3d;color:#fff;border-radius:10px;padding:20px 24px;margin:28px 0}
+aside.cta a{color:#7fd4e0}
+details.faq{border:1px solid var(--line);border-radius:8px;margin:0 0 10px;background:var(--card)}
+details.faq summary{cursor:pointer;font-weight:700;padding:12px 16px}
+details.faq .a{padding:0 16px 14px;color:var(--ink)}
+footer.site{border-top:1px solid var(--line);background:var(--wash);margin-top:20px}
+footer.site .wrap{padding-top:20px;padding-bottom:28px;font-size:14px;color:var(--muted)}
+a{color:var(--accent)}
+/* estimator widget */
+.tool{background:var(--card);border:2px solid var(--accent);border-radius:12px;padding:22px;margin:24px 0}
+.tool .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:640px){.tool .grid{grid-template-columns:1fr}}
+.field{margin-bottom:14px}
+.field label{display:block;font-weight:700;font-size:14px;margin-bottom:6px}
+.field input[type=number],.field input[type=text],.field select{width:100%;padding:10px 12px;font-size:16px;border:1px solid var(--line);border-radius:8px;color:var(--ink)}
+.field .hint{font-size:13px;color:var(--muted);margin-top:4px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:12px 26px;font-size:16px;font-weight:700;cursor:pointer}
+.btn:hover{background:#0b6a77}
+.btn.ghost{background:#fff;color:var(--accent);border:1px solid var(--accent)}
+.result{background:var(--wash);border:1px solid var(--line);border-radius:10px;padding:18px;margin-top:18px}
+.result h3{margin-top:0}
+.result .big{font-size:28px;font-weight:800;color:var(--accent);margin:6px 0}
+.result .band{font-size:15px;color:var(--muted)}
+.tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:4px;padding:2px 8px;margin-right:6px}
+.tag.verified{background:#d9f2e4;color:#146c43}
+.tag.unverified{background:#fdf0e4;color:#a15c07}
+.warn{color:#a15c07;font-weight:600}
+.err{color:#c0392b;font-weight:600}
+.dimrow{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+@media(max-width:640px){.dimrow{grid-template-columns:1fr}}
+#customBox{margin-top:16px;padding-top:16px;border-top:1px dashed var(--line)}
+.hidden{display:none}
+</style>
+</head>
+<body>
+<header class="site"><div class="wrap">
+<p class="kicker">CFans Guides · Shipping Tools</p>
+<h1>Taobao Shipping Cost Estimator (2026)</h1>
+<p class="lead">Enter your parcel weight and destination — get an estimate anchored on <strong>verified CFans 2026 rate samples</strong>, plus the chargeable weight behind it.</p>
+</div></header>
+<main><div class="wrap">
+
+<aside class="box verdict">
+<p><strong>Verdict:</strong> CFans is a china shipping agent that publishes its core fee in writing — basic purchasing is <strong>free (0%)</strong> — and this estimator anchors every result on real quotes pulled from CFans' logged-in estimation tool in September 2026: <strong>USA ¥250.85 / 8–12 days, UK ¥162.40 / 9–12 days, Germany ¥171.10 / 8–13 days</strong> (at 1000g; real quotes vary ±5–10%). We never invent rates: anything we haven't verified is labeled <em>verify live</em>.</p>
+</aside>
+
+<aside class="box warning">
+<p style="margin:0"><strong>Disclaimer:</strong> International shipping rates move in real time with fuel, seasons, and line capacity. Treat every figure on this page as an <strong>estimate anchored on September 2026 sample quotes</strong>. Always get a <strong>live quote in CFans' official estimation tool before you place your order</strong>. (Brand note: CFans is cfans.com. CNFans / cnfans.com is a different, unrelated company.)</p>
+</aside>
+
+<section class="tool" id="estimator" aria-label="Taobao shipping cost estimator">
+<h2 style="margin-top:0">The estimator</h2>
+
+<div class="grid">
+<div class="field">
+<label for="weight">Parcel weight (grams)</label>
+<input type="number" id="weight" min="1" max="30000" value="1000" inputmode="numeric"/>
+<div class="hint">Weigh after domestic parcels arrive — or guess, then re-check later.</div>
+</div>
+<div class="field">
+<label for="country">Destination country</label>
+<select id="country">
+<option value="USA">USA</option>
+<option value="UK">UK</option>
+<option value="Germany">Germany</option>
+<option value="OTHER">Other country</option>
+</select>
+<div class="hint">Verified sample quotes currently exist for USA, UK, and Germany only.</div>
+</div>
+</div>
+
+<div class="field">
+<label>Parcel dimensions (optional — cm)</label>
+<div class="dimrow">
+<input type="number" id="len" min="0" placeholder="Length" inputmode="decimal"/>
+<input type="number" id="wid" min="0" placeholder="Width" inputmode="decimal"/>
+<input type="number" id="hei" min="0" placeholder="Height" inputmode="decimal"/>
+</div>
+<div class="hint">Carriers bill on whichever is greater: actual weight or <strong>volumetric weight</strong> = L×W×H ÷ 6000 (USA/UK) or ÷ 8000 (Germany).</div>
+</div>
+
+<div class="grid">
+<div class="field">
+<label for="method">Shipping method</label>
+<select id="method">
+<option value="standard">Standard air line</option>
+<option value="economy">Economy</option>
+<option value="express">Express</option>
+</select>
+<div class="hint">Sample quotes are for the named line per country; method-level rates aren't published — verify live.</div>
+</div>
+<div class="field">
+<label>&nbsp;</label>
+<button class="btn" id="calcBtn" type="button">Estimate my shipping</button>
+</div>
+</div>
+
+<div id="customBox">
+<p><strong>Have your own quote?</strong> Paste the total CFans quoted you and compare it against the verified sample.</p>
+<div class="grid">
+<div class="field">
+<label for="ownQuote">Your quoted total (¥ CNY)</label>
+<input type="number" id="ownQuote" min="0" placeholder="e.g. 265.50" inputmode="decimal"/>
+</div>
+<div class="field">
+<label for="ownDays">Your quoted transit (optional)</label>
+<input type="text" id="ownDays" placeholder="e.g. 8–12 days"/>
+</div>
+</div>
+</div>
+
+<div class="result" id="result" aria-live="polite">
+<p class="small" style="margin:0">Your estimate will appear here. Nothing is sent anywhere — this runs entirely in your browser.</p>
+</div>
+</section>
+
+<h2>How this estimator works (and what it refuses to do)</h2>
+<ul>
+<li><strong>Verified anchors only.</strong> The three country lines below are the full set of rates we have verified — pulled from CFans' logged-in estimation tool at 1000g in September 2026, with the site's own note that real quotes vary <strong>±5–10%</strong>.</li>
+<li><strong>No invented weight tiers.</strong> CFans' per-0.5kg step pricing is not publicly published, so we do <strong>not</strong> scale the 1000g sample to other weights. If your weight isn't 1000g, the tool tells you the rate at that weight is <em>not verified</em> and shows the anchor only for reference.</li>
+<li><strong>Chargeable weight is real math.</strong> Volumetric divisors (÷6000 USA/UK, ÷8000 Germany) and the round-up rule (8526g billed as 8600g) come from CFans' own logistics help articles, so the chargeable-weight calc is verified.</li>
+<li><strong>Other countries, other methods:</strong> no verified rate exists — the tool says so and invites your own quote instead of guessing.</li>
+</ul>
+
+<h2>Verified sample quotes (CFans, September 2026, 1000g)</h2>
+<table>
+<thead><tr><th>Line</th><th>Sample quote at 1000g</th><th>Transit</th><th>Weight limits</th><th>Volumetric divisor</th></tr></thead>
+<tbody>
+<tr><td>USA dedicated line (battery/magnetics &amp; cosmetics)</td><td>¥250.85 <span class="tag verified">verified</span></td><td>8–12 days</td><td>500g–20000g</td><td>L×W×H ÷ 6000</td></tr>
+<tr><td>UK Royal Mail dedicated line (sensitive goods)</td><td>¥162.40 <span class="tag verified">verified</span></td><td>9–12 days</td><td>100g–18000g</td><td>L×W×H ÷ 6000</td></tr>
+<tr><td>Germany DHL dedicated line (special/sensitive goods)</td><td>¥171.10 <span class="tag verified">verified</span></td><td>8–13 days</td><td>100g–30000g</td><td>L×W×H ÷ 8000</td></tr>
+</tbody>
+</table>
+<p class="small">Source: CFans logged-in estimation tool (https://www.cfans.com/fulfillment/estimation), captured September 2026. The page's FAQ notes estimates may float ±5–10%. Transit is warehouse-dispatch to delivery; add CFans' domestic warehouse QC turnaround of <strong>3–5 business days</strong> after your Taobao parcels arrive (Help Center, verified).</p>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>How much does Taobao shipping cost?</summary><div class="a"><p>There is no flat rate — shipping is charged by <strong>chargeable weight</strong> (actual vs. volumetric, whichever is greater) on the line you choose. As a verified reference point: CFans' September 2026 logged-in quotes at 1000g were <strong>USA ¥250.85 (8–12 days), UK ¥162.40 (9–12 days), Germany ¥171.10 (8–13 days)</strong>, floating ±5–10% in reality. Enter your weight above for the chargeable-weight math, then get a live quote for your exact parcel.</p></div></details>
+<details class="faq"><summary>How much is Taobao shipping to the USA?</summary><div class="a"><p>The rate we can quote with confidence is the verified sample: <strong>¥250.85 at 1000g, 8–12 days</strong>, on CFans' USA dedicated line (battery/magnetics &amp; cosmetics, 500g–20000g limit), captured September 2026 and subject to ±5–10% float. Rates at other weights are per-weight tiers inside CFans' logged-in estimation tool — use the estimator's own-quote mode or get a live quote instead of trusting third-party guesses.</p></div></details>
+<details class="faq"><summary>How long does delivery to the US take?</summary><div class="a"><p>For the verified CFans USA line: <strong>8–12 days</strong> after dispatch. Add <strong>3–5 business days</strong> of domestic warehouse QC after your Taobao parcels arrive at CFans' warehouse, plus purchase time (CFans' SLA: purchase within 24 hours after payment). Customs clearance time at the destination varies and isn't something any agent can guarantee.</p></div></details>
+<details class="faq"><summary>Will I pay tariffs or customs charges on a Taobao order shipped to the US?</summary><div class="a"><p>The old US$800 duty-free <em>de minimis</em> channel for small parcels has been <strong>suspended globally effective 29 August 2025</strong> (Executive Order 14324), and the suspension was made indefinite with a rule published in the <em>Federal Register</em> on 24 June 2026 — so assume your parcel enters as a declared, dutiable shipment. What you actually pay is decided by U.S. Customs based on declared value and classification; we won't invent a percentage. Official sources: <a href="https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries/">White House (E.O. 14324 continuation)</a>, <a href="https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry">Federal Register, 24 June 2026</a>. CFans advises declaring at least 30% of the goods' value (max USD 135) per its Help Center.</p></div></details>
+<details class="faq"><summary>How to use a Taobao shipping calculator effectively?</summary><div class="a"><p>Four rules: ① input <strong>accurate weight and dimensions</strong> — volumetric weight often decides the bill; ② choose the <strong>destination country</strong>, since rates are per-line; ③ remember shipping is only one cost layer — compare the <strong>true total</strong> (product price + agent service fee + shipping), and note CFans' basic purchasing service is <strong>free (0%)</strong> with 3–5 free QC photos per item; ④ treat any third-party calculator's number as an estimate and <strong>confirm with the agent's live quote</strong> before ordering, because rates float ±5–10%.</p></div></details>
+
+<aside class="cta">
+<p style="margin:0 0 8px"><strong>Rates move in real time — verify before you ship.</strong></p>
+<p style="margin:0">The samples above were captured in September 2026. For your exact weight and today's price, run a live quote in CFans' official estimation tool — and remember the fee stack starts at <strong>0% basic purchasing fee</strong> with <strong>3–5 free QC photos</strong> per item and <strong>60 days of free warehouse storage</strong>.</p>
+</aside>
+
+<h2>Sources</h2>
+<ul>
+<li>CFans logged-in estimation tool — https://www.cfans.com/fulfillment/estimation (sample quotes captured Sep 2026; ±5–10% float per page FAQ)</li>
+<li>CFans Help Center — https://cfans.com/content/help (0% basic purchasing fee; 3–5 QC photos with ≥0.5cm/≥1cm defect standard; 24h purchase SLA; 3–5 business-day warehouse QC; 60-day free storage; volumetric rules; declared-value guidance)</li>
+<li>White House — Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries (E.O. 14324, Feb 2026)</li>
+<li>Federal Register — Indefinite Suspension of the De Minimis Exemption for Mail Shipments (24 Jun 2026)</li>
+<li>Competitor methodology references: dogegoo.com US page ("no flat rate" honesty framing), tonlexing.com calculator guide (2025), blog.fishgoo.com true-total-cost method — competitor rates not quoted, verify live.</li>
+</ul>
+
+<h2>Next steps</h2>
+<ul>
+<li><a href="https://www.aigcmkt.com/en/cheapest-shipping-agents-china-to-usa-2026.html">Cheapest Shipping Agents from China to USA (2026)</a> — parent guide: how shipping fits the full fee stack.</li>
+<li><a href="china-shipping-transit-time-database-2026.html">China Shipping Transit Time Database (2026)</a> — per-country delivery-time data (companion tool in this series).</li>
+<li>How to Track Your Taobao Parcel (2026) — slug <code>how-to-track-taobao-parcel-2026</code> (sister guide, Google Sites).</li>
+</ul>
+
+</div></main>
+<footer class="site"><div class="wrap">
+<p>CFans Guides · Published October 2026. Estimates are anchored on verified September 2026 samples; rates float — always confirm a live quote. Brand: CFans (cfans.com). CNFans (cnfans.com) is a different, unrelated company.</p>
+</div></footer>
+<script>
+/*
+ * TAOBAO SHIPPING COST ESTIMATOR — calculation logic
+ * ---------------------------------------------------------------------------
+ * RATE SOURCES (verified, 2026-09):
+ *   - USA:    ¥250.85 at 1000g, 8–12 days  — USA dedicated line (battery/
+ *             magnetics & cosmetics), weight limits 500g–20000g, vol ÷6000
+ *   - UK:     ¥162.40 at 1000g, 9–12 days  — UK Royal Mail dedicated line
+ *             (sensitive goods), weight limits 100g–18000g, vol ÷6000
+ *   - Germany:¥171.10 at 1000g, 8–13 days  — Germany DHL dedicated line
+ *             (special/sensitive goods), weight limits 100g–30000g, vol ÷8000
+ *   Source: CFans logged-in estimation tool (cfans.com/fulfillment/estimation),
+ *   captured 2026-09-26. Page FAQ: actual quotes may float ±5–10%.
+ *
+ * IRON RULES implemented here:
+ *   1. We only ever *display* the verified 1000g sample quotes. We NEVER
+ *      invent per-weight tiers or scale rates linearly to other weights,
+ *      because per-0.5kg step pricing is NOT publicly published (fact book:
+ *      "per 0.5kg step pricing — STILL UNVERIFIED").
+ *   2. Weights != 1000g get an explicit "not verified at this weight —
+ *      verify live" notice, never a computed price.
+ *   3. "Other country" and non-sampled methods get "no verified rate".
+ *   4. Users can always paste their own quoted total instead.
+ *   5. Volumetric divisors and the round-up rule ARE verified (Help Center
+ *      logistics articles), so chargeable-weight math is legitimate.
+ */
+(function () {
+  "use strict";
+
+  var SAMPLES = {
+    USA:     { quote: 250.85, days: "8–12 days", line: "USA dedicated line (battery/magnetics & cosmetics)", minW: 500,   maxW: 20000, div: 6000 },
+    UK:      { quote: 162.40, days: "9–12 days", line: "UK Royal Mail dedicated line (sensitive goods)",            minW: 100,   maxW: 18000, div: 6000 },
+    Germany: { quote: 171.10, days: "8–13 days", line: "Germany DHL dedicated line (special/sensitive goods)",      minW: 100,   maxW: 30000, div: 8000 }
+  };
+  var FLOAT = { low: 0.95, high: 1.10 }; // verified: actual quotes vary ±5–10%
+
+  function $ (id) { return document.getElementById(id); }
+  function num (v) { var n = parseFloat(v); return (isNaN(n) || n < 0) ? 0 : n; }
+  function cny (v) { return "¥" + v.toFixed(2); }
+
+  function fmtBand (q) {
+    return cny(q * FLOAT.low) + " – " + cny(q * FLOAT.high);
+  }
+
+  function chargeableWeight (actualG, L, W, H, div) {
+    if (L > 0 && W > 0 && H > 0) {
+      var volG = L * W * H * 1000 / div; // volumetric weight in grams
+      return Math.max(actualG, volG);
+    }
+    return actualG;
+  }
+
+  function roundUp100 (g) {
+    return Math.ceil(g / 100) * 100; // verified rule: 8526g billed as 8600g
+  }
+
+  function render (html) { $("result").innerHTML = html; }
+
+  $("calcBtn").addEventListener("click", function () {
+    var w = num($("weight").value);
+    var country = $("country").value;
+    var method = $("method").value;
+    var L = num($("len").value), W = num($("wid").value), H = num($("hei").value);
+    var ownQ = num($("ownQuote").value);
+    var ownDays = $("ownDays").value.trim();
+
+    if (w <= 0) { render('<p class="err">Please enter a parcel weight above 0g.</p>'); return; }
+
+    var out = "";
+    var sample = SAMPLES[country];
+
+    if (sample) {
+      var cw = chargeableWeight(w, L, W, H, sample.div);
+      var cwBilled = roundUp100(cw);
+      var volNote = (L > 0 && W > 0 && H > 0)
+        ? "<li>Volumetric weight: " + (L * W * H * 1000 / sample.div).toFixed(0) + "g (L×W×H ÷ " + sample.div + ").</li>"
+        : "";
+      var limitNote = "";
+      if (w < sample.minW || w > sample.maxW) {
+        limitNote = '<li><span class="warn">Heads up: ' + w + 'g is outside this line\u2019s published weight limits (' +
+          sample.minW + 'g–' + sample.maxW + 'g). Pick another line or verify live.</span></li>';
+      }
+      var methodNote = (method === "standard")
+        ? ""
+        : '<li><span class="warn">Method note:</span> this sample is for the standard named line above. ' +
+          'Method-level rates aren\u2019t published — verify live in the logged-in estimator.</li>';
+
+      var rateBlock;
+      if (w === 1000) {
+        rateBlock = '<p class="big">' + cny(sample.quote) + ' <span class="tag verified">verified sample</span></p>' +
+          '<p class="band">Real quotes float ±5–10% → realistic band <strong>' + fmtBand(sample.quote) + '</strong></p>';
+      } else {
+        rateBlock = '<p class="big">' + cny(sample.quote) + ' <span class="tag verified">verified sample</span></p>' +
+          '<p class="band">That sample is at <strong>1000g</strong>. ' +
+          '<span class="warn">Rate at ' + w + 'g is <strong>not verified</strong></span> — CFans\u2019 per-weight tiers ' +
+          'live inside its logged-in estimator, and we won\u2019t invent them. Use the anchor for reference, then ' +
+          '<strong>verify live</strong> or paste your own quote below.</p>';
+      }
+
+      out += '<h3>Estimate for ' + country + '</h3>' +
+        '<p class="small" style="margin-bottom:6px">' + sample.line + '</p>' +
+        rateBlock +
+        '<ul>' +
+          '<li>Transit: <strong>' + sample.days + '</strong> after dispatch (+ 3–5 business days domestic warehouse QC).</li>' +
+          '<li>Chargeable weight: <strong>' + cw.toFixed(0) + 'g</strong> (billed as ' + cwBilled + 'g after round-up).</li>' +
+          volNote + limitNote + methodNote +
+        '</ul>';
+    } else {
+      out += '<h3>Estimate for other countries</h3>' +
+        '<p><span class="tag unverified">no verified rate</span></p>' +
+        '<p class="band">We have <strong>no verified CFans sample quote</strong> for this destination, ' +
+        'so we won\u2019t guess one. Paste the total CFans quotes you below, or get a ' +
+        '<strong>live quote</strong> in the official estimation tool.</p>';
+    }
+
+    if (ownQ > 0) {
+      out += '<h3>Your own quote, checked</h3>' +
+        '<p class="big">' + cny(ownQ) + ' <span class="tag verified">your quote</span></p>' +
+        '<p class="band">With ±5–10% real-world float → <strong>' + fmtBand(ownQ) + '</strong>' +
+        (ownDays ? ' · you entered transit: <strong>' + ownDays.replace(/</g, "&lt;") + '</strong>' : '') + '</p>' +
+        '<p class="small">Reminder: shipping is one layer of the true total. CFans\u2019 basic purchasing service is ' +
+        '<strong>free (0%)</strong>, standard QC photos (3–5 per item) are free, and warehouse storage is free for 60 days.</p>';
+    }
+
+    render(out);
+  });
+})();
+</script>
+</body>
+</html>
