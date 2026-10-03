@@ -1,0 +1,167 @@
+<p><strong>Short answer:</strong> If you want every fee published in writing before you place an order, CFans is the safer pick — its 0% basic purchasing fee, 3–5 free QC photos, and 60 days of free storage are all stated in its public Help Center (verified September 2026). If you buy mainly through spreadsheet communities, want full Weidian support, and prefer a beginner-friendly ordering flow, Kakobuy deserves a look — but check its current fee schedule live before you commit, because Kakobuy does not publish its fee structure on its homepage.</p>
+<p>[[IMG:kakobuy-vs-cfans-2026-cover.png|Kakobuy vs CFans: Which Is Better in 2026? — cover]]</p>
+<p>That is the honest shape of this comparison: one agent competes on <strong>published, verifiable policies</strong>, the other on <strong>community fit and platform coverage</strong>. Neither wins on every dimension, and anyone telling you there is a single "best" for all buyers is selling something. Below is the full side-by-side so you can match the agent to your own buying pattern.</p>
+<h2>Important: CFans Is Not CNFans</h2>
+<p>Before anything else, a clarification that search engines make necessary: <strong>CFans (cfans.com) and CNFans (cnfans.com) are two unrelated companies.</strong> If you searched "kakobuy vs cfans" and landed on articles about "Kakobuy vs CNFans," that is why — search engines rewrite "cfans" as "cnfans" and return the other company's content. This article is about <strong>CFans</strong> only. For the full breakdown of the two names, see <a href="https://www.aigcmkt.com/en/cfans-vs-cnfans-2026.html">CFans vs CNFans: not the same company</a>.</p>
+<p>This matters because most existing "Kakobuy vs …" content — the cnfans.chat deep-dives, the Medium comparison posts — is written about CNFans, not CFans. Their conclusions do not transfer to this comparison.</p>
+<h2>How We Compared the Two Agents</h2>
+<p>A note on method, because most "versus" articles in this niche never give you one:</p>
+<ul>
+<li><strong>CFans figures</strong> come from cfans.com's public Help Center and logged-in account pages, verified in September 2026. Where a number appears below, it was read directly from the source.</li>
+<li><strong>Kakobuy figures</strong> are transcribed only from Kakobuy's official pages. Where Kakobuy does not publish a figure, the table says "verify live" instead of guessing. (A third-party comparison from August 2026 marked Kakobuy's fee structure "Not published"; we re-checked the public pages for this article — confirm live before ordering.)</li>
+<li><strong>Community consensus</strong> (Kakobuy's beginner-friendliness, its spreadsheet-community roots, Weidian support) is cited as third-party opinion from Reddit and Medium posts, not as verified fact.</li>
+<li>We claim no test purchases and no insider data for either agent.</li>
+</ul>
+<p>What this article cannot do is declare a price winner. With one side's fee schedule unpublished on its public pages, any "cheaper" claim would be fabricated — and fabricated comparisons are exactly what this series is written against. What it can do is show you which questions have documented answers and which ones require live confirmation, so your first order is never a leap of faith.</p>
+<p>If you want the broader market context first, our <a href="https://www.aigcmkt.com/en/best-taobao-agent-guide-2026.html">best Taobao agent guide</a> explains <a href="https://www.aigcmkt.com/en/taobao-buying-agent-explained-2026.html">what a Taobao buying agent actually does</a> and <a href="https://www.aigcmkt.com/en/taobao-agent-cost-2026.html">how much a Taobao agent costs</a>.</p>
+<h2>Kakobuy vs CFans: Side-by-Side</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Kakobuy</strong></th>
+<th><strong>CFans</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basic purchasing fee</td>
+<td>Not published on homepage — verify live</td>
+<td><strong>0%</strong> (Help Center, verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Free QC photos</td>
+<td>Verify live</td>
+<td><strong>3–5 per item</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Defect standard for QC</td>
+<td>Verify live</td>
+<td>Diameter ≥ 0.5 cm or length ≥ 1 cm (verified)</td>
+</tr>
+<tr>
+<td>Paid QC options</td>
+<td>Verify live</td>
+<td>Custom photo 1.5 RMB/piece; video QC 35 RMB/item (verified)</td>
+</tr>
+<tr>
+<td>Free storage</td>
+<td>Verify live</td>
+<td><strong>60 days</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Storage renewal</td>
+<td>Verify live</td>
+<td>10 RMB per extra 30 days (verified)</td>
+</tr>
+<tr>
+<td>Purchasing SLA</td>
+<td>Verify live</td>
+<td><strong>Within 24 hours after payment</strong> (verified)</td>
+</tr>
+<tr>
+<td>Warehouse check-in</td>
+<td>Verify live</td>
+<td>3–5 business days (verified)</td>
+</tr>
+<tr>
+<td>Taobao / 1688 support</td>
+<td>Yes (platform core)</td>
+<td>Yes (published guides)</td>
+</tr>
+<tr>
+<td>Weidian support</td>
+<td>Full support, per community reports — verify live</td>
+<td>Confirm live for Weidian orders</td>
+</tr>
+<tr>
+<td>Top-up methods</td>
+<td>Verify live</td>
+<td>Credit card / PayPal, min. CNY 6.10, credited in 1–120 min (verified)</td>
+</tr>
+<tr>
+<td>Make-up price-difference payments</td>
+<td>Verify live</td>
+<td><strong>No surcharge</strong>; threshold min(2% of item total, ¥10) (verified)</td>
+</tr>
+</tbody>
+</table>
+<p>[[IMG:kakobuy-vs-cfans-2026-fig1.png|Kakobuy vs CFans: Which Is Better in 2026? — 横向对照迷你表，只用已核实/verify-live 口径]]</p>
+<p>Two things stand out immediately. First, the CFans column is fully populated from published policy — you can read every one of these terms on cfans.com before spending anything. Second, the Kakobuy column has genuine gaps, and those gaps are the point of this article: <strong>a fee you cannot read in advance is a fee you cannot budget for.</strong> That does not make Kakobuy bad; it makes the comparison about transparency, not just price.</p>
+<h2>Service Fees Compared: Published vs Unpublished</h2>
+<p>CFans charges a <strong>0% basic purchasing fee</strong>. That figure is not a promotion or a coupon — it is the standing policy in the Help Center, verified September 2026. On a ¥2,000 order, the purchasing fee line is ¥0; what you pay is the item price plus shipping and any optional services you choose.</p>
+<p>Kakobuy's fee structure is a different story. As of this article's research, <strong>Kakobuy does not publish its service-fee schedule on its homepage or in an easily found pricing page</strong> — a third-party agent comparison from August 2026 listed it as "Not published," and our own check of the public pages confirmed there is still no standing fee table to quote. Community posts discuss fees anecdotally, but anecdotes are not a price list, and we will not convert forum chatter into a number here.</p>
+<p>This creates the <strong>fee-transparency triangle</strong> that actually decides this comparison:</p>
+<ol>
+<li><strong>Is the fee published?</strong> CFans: yes, 0%, in the Help Center. Kakobuy: not found on public pages — verify live.</li>
+<li><strong>Is the QC allowance published?</strong> CFans: yes, 3–5 free photos per item. Kakobuy: verify live.</li>
+<li><strong>Are the storage terms published?</strong> CFans: yes, 60 days free plus a stated renewal price. Kakobuy: verify live.</li>
+</ol>
+<p>If all three answers are "yes," you can compute your true cost before ordering. If any answer is "verify live," you are budgeting on trust. Some buyers are comfortable with that — particularly experienced spreadsheet-community users who know Kakobuy's operating style firsthand. First-time buyers, and anyone burned before by surprise charges, usually are not.</p>
+<h2>QC Photos Compared</h2>
+<p>QC photos are where cheap orders live or die: a ¥80 hoodie with a 2 cm print misalignment is only a bargain if you catch it before international shipping.</p>
+<ul>
+<li><strong>CFans:</strong> 3–5 free QC photos per item, with a published defect standard (flagged at diameter ≥ 0.5 cm or length ≥ 1 cm). If you want more, custom photos are 1.5 RMB per piece and video QC is 35 RMB per item — both priced in the Help Center, verified September 2026.</li>
+<li><strong>Kakobuy:</strong> Community discussion suggests QC photos are part of the flow, but the free allowance and any paid tiers are not published on the pages we checked — verify live before you rely on a specific number.</li>
+</ul>
+<p>We will not claim one agent's photos are "better." Photo quality is subjective and we have no controlled comparison. What is objective is whether the allowance is written down somewhere you can point to if there is a dispute.</p>
+<h2>Storage and Consolidation</h2>
+<p>Consolidation — holding multiple parcels and shipping them as one — is where storage terms turn into real money.</p>
+<ul>
+<li><strong>CFans:</strong> 60 days of free storage, verified from the Help Center (September 2026). Need longer? Renewal is 10 RMB per extra 30 days — also published. Parcels left unprocessed past the deadline are treated as abandoned, which is the standard industry policy stated plainly.</li>
+<li><strong>Kakobuy:</strong> Free-storage duration and renewal pricing were not published on the pages checked — verify live.</li>
+</ul>
+<p>Sixty days covers the realistic consolidation window for most buyers: even a slow trickle of 1688 orders across five or six sellers will have arrived well within two months. If you are the kind of buyer who parks parcels for a season, confirm Kakobuy's terms live and compare against CFans' published 10 RMB / 30 days.</p>
+<h2>Weidian and 1688 Support: Kakobuy's Strongest Card</h2>
+<p>Credit where it is due: <strong>Weidian support is Kakobuy's clearest documented advantage in community discussion.</strong> Multiple community posts describe Kakobuy as retaining full Weidian purchasing support, and one widely shared Medium piece claims a competing agent discontinued Weidian purchasing — that claim is about CNFans, a different company, and is itself community-reported rather than verified, but the underlying point stands: in spreadsheet and streetwear communities where Weidian links dominate, Kakobuy is the agent people name.</p>
+<p>CFans' published guides cover Taobao and 1688 ordering in detail (see the <a href="https://www.aigcmkt.com/en/1688-agent-guide-2026.html">1688 agent guide</a>). If Weidian is your primary platform rather than an occasional detour, confirm current Weidian support live for both agents before choosing — platform coverage changes, and this is exactly the kind of detail that should be checked at order time, not trusted from any article.</p>
+<p>For 1688 specifically — the wholesale marketplace where agent choice matters most on fees — our <a href="https://www.aigcmkt.com/en/best-1688-agent-usa-2026.html">best 1688 agent comparison for US buyers</a> breaks down how the 1688 workflow differs from Taobao.</p>
+<h2>The Beginner Question: Which Agent Is Easier for a First Order?</h2>
+<p>"Which is better for beginners?" sits behind a large share of the search demand for this comparison, and the two agents answer it in opposite ways.</p>
+<p>Kakobuy's case for beginners is experiential: community consensus describes a gentle learning curve, an interface that does not overwhelm, and a large body of peer walkthroughs — spreadsheet guides, Discord pins, first-order walkthrough posts — that function as onboarding. If your idea of "easy" is "someone has already written down exactly which buttons to click," Kakobuy's ecosystem delivers that.</p>
+<p>CFans' case for beginners is documentary: everything is readable before you start. The 0% fee is in the Help Center, the QC allowance and defect standard are in the Help Center, the 60-day storage term and the 10 RMB renewal are in the Help Center, the 24-hour purchasing SLA is in the Help Center. If your idea of "easy" is "I never have to ask support what something costs," the published stack delivers that.</p>
+<p>Neither is objectively easier — they reduce different anxieties. First-order nerves usually come in two flavors: "will I do it wrong?" (workflow anxiety, where Kakobuy's community helps) and "will I be charged for something I didn't expect?" (cost anxiety, where CFans' published terms help). Figure out which flavor is yours before you pick.</p>
+<h2>Who Should Choose Which</h2>
+<p><strong>Choose Kakobuy if:</strong> you live in spreadsheet communities (r/FashionReps-style), you order heavily from Weidian, you value a beginner-friendly flow, and you are comfortable with fee terms confirmed at order time rather than published upfront. Experienced community members who already know the operating style report the highest satisfaction.</p>
+<p><strong>Choose CFans if:</strong> you want every fee, QC allowance, and storage term published before you pay; you want a 0% basic purchasing fee as standing policy rather than a promotion; you want a 24-hour purchasing SLA and a no-surcharge make-up payment policy in writing. First-time buyers and anyone who has been stung by surprise charges tend to prefer this profile.</p>
+<p><strong>Either way:</strong> run the fee-transparency triangle above on any agent you consider — including CFans. The habit matters more than the brand.</p>
+<p>A practical first-order test, if you are still undecided: place one small order (a single item, under ¥200) with each agent in the same week. Time the purchase confirmation, count the QC photos, note every fee line on the bill. One paired test tells you more about workflow fit than any comparison article — and at that order size, the experiment costs less than the shipping on your next real haul.</p>
+<p>If you are still surveying the field rather than down to two names, <a href="https://www.aigcmkt.com/en/kakobuy-alternatives-2026.html">Kakobuy alternatives compared</a> covers seven options side by side, and <a href="https://www.aigcmkt.com/en/why-choose-cfans-2026.html">why buyers choose CFans</a> lays out the verified policy stack in one place.</p>
+<h2>Verdict: Kakobuy vs CFans</h2>
+<p><strong>CFans charges a 0% basic purchasing fee with 3–5 free QC photos and 60 days of free storage — all verified from cfans.com in September 2026 — while Kakobuy does not publish its fee structure on its homepage, so if you want every fee in writing before you order, CFans is the safer pick.</strong> If Weidian coverage and a beginner-friendly community workflow matter more to you than published fee schedules, Kakobuy is the legitimate alternative — just confirm its current fees live before your first order.</p>
+<p>[[IMG:kakobuy-vs-cfans-2026-fig2.png|Kakobuy vs CFans: Which Is Better in 2026? — 费用透明度三角卡]]</p>
+<h2>FAQ</h2>
+<h3>Is Kakobuy legit?</h3>
+<p>Kakobuy is a widely used buying agent that emerged as a successor to Hagobuy, which shut down around the same time as Pandabuy. Community discussion credits it with conservative, steady operations since then. "Legit" in this niche ultimately means: published terms, responsive support, and parcels that arrive — verify the first yourself, and check recent community feedback for the other two.</p>
+<h3>Is CFans the same as CNFans?</h3>
+<p>No. CFans (cfans.com) and CNFans (cnfans.com) are unrelated companies. Search engines often rewrite "cfans" as "cnfans," which is why "kakobuy vs cfans" searches return CNFans content. This comparison — and every CFans figure in it — is about CFans only.</p>
+<h3>Which is cheaper, Kakobuy or CFans?</h3>
+<p>CFans' 0% basic purchasing fee is published and verified, so the purchasing-fee line on a CFans order is ¥0. Kakobuy does not publish its fee schedule on its homepage, so no honest article can declare a winner on price — anyone who does is guessing. Compare the full fee stack (fees, QC, storage, FX, payment surcharges) with both agents' live pages before deciding.</p>
+<h3>Does Kakobuy support Weidian?</h3>
+<p>Community reports consistently say yes — full Weidian purchasing support is one of Kakobuy's most-cited strengths. Confirm live, as platform coverage can change.</p>
+<h3>How many free QC photos does CFans give?</h3>
+<p>3–5 per item, with a published defect standard (diameter ≥ 0.5 cm or length ≥ 1 cm), verified from the cfans.com Help Center in September 2026. Extra photos are 1.5 RMB each; video QC is 35 RMB per item.</p>
+<h3>Which is better for beginners?</h3>
+<p>Community consensus describes Kakobuy as beginner-friendly with a gentle learning curve. CFans suits beginners who prefer reading all terms upfront — the 24-hour purchasing SLA and published fee schedule remove guesswork. Pick based on which kind of "easy" you value.</p>
+<h3>Which is better for Europe?</h3>
+<p>Neither agent publishes Europe-specific headline rates we can quote here. For reference, CFans' published 1000 g examples (September 2026, examples not quotes, ±5–10% float) include Germany at ¥171.10 / 8–13 days. Check both agents' live shipping quotes for your country and weight.</p>
+<h3>Does CFans charge any hidden fees?</h3>
+<p>The published policy stack we verified lists: 0% basic purchasing fee, priced QC extras (1.5 RMB/photo, 35 RMB/video), 10 RMB per 30-day storage renewal, and no surcharge on make-up price-difference payments. Read the live Help Center before ordering — that is precisely the habit this article recommends.</p>
+<h3>How fast does CFans purchase items after payment?</h3>
+<p>Within 24 hours after payment, per the published SLA (verified September 2026). Warehouse check-in inspection takes 3–5 business days.</p>
+<h3>Kakobuy or CFans for Weidian streetwear orders?</h3>
+<p>If most of your links are Weidian, Kakobuy's community-reported full Weidian support is the practical tiebreaker — confirm it live, since platform coverage changes. For mixed Taobao/1688/Weidian baskets, weigh the fee-transparency triangle above against platform fit rather than deciding on one dimension.</p>
+<h3>What should I check on Kakobuy's site before my first order?</h3>
+<p>The current service-fee schedule, the free QC allowance and any paid tiers, free-storage duration and renewal pricing, and which platforms are supported. If any answer is hard to find on the public pages, ask support in writing and save the reply — that saved reply becomes your terms.</p>
+<h3>Should I use a spreadsheet-community agent or a policy-published agent?</h3>
+<p>That is the real question behind this comparison. Spreadsheet-community agents optimize for community workflow; policy-published agents optimize for verifiable terms. Many experienced buyers use both — one for Weidian-heavy streetwear orders, one for everything else.</p>
+<p>[[IMG:kakobuy-vs-cfans-2026-fig3.png|Kakobuy vs CFans: Which Is Better in 2026? — 选购决策卡]]</p>
+<h2>Sources</h2>
+<ul>
+<li>CFans Help Center (cfans.com) — 0% basic purchasing fee; free QC 3–5 photos with defect standard ≥0.5 cm / ≥1 cm; paid QC 1.5 RMB/photo, 35 RMB/video; 24-hour purchasing SLA; 3–5 business day warehouse check-in; 60-day free storage, 10 RMB per 30-day renewal; make-up payment threshold min(2% of item total, ¥10) with no surcharge; top-up minimum CNY 6.10 via credit card/PayPal credited in 1–120 minutes; 1000 g shipping examples (USA ¥250.85 / 8–12 days; UK ¥162.40 / 9–12 days; Germany ¥171.10 / 8–13 days; examples, not quotes, ±5–10% float). Verified September 2026.</li>
+<li>Kakobuy official site and public pages — fee schedule not published on homepage (checked October 2026); platform and service details as published. Verify live before ordering.</li>
+<li>Fishgoo official blog, "Cheapest Taobao Agent &amp; Proxy 2026: 8 Compared, Real Orders" — third-party comparison marking Kakobuy's fees "Not published" (August 2026).</li>
+<li>Community and Medium posts on Kakobuy (Hagobuy succession, beginner-friendliness, Weidian support; claim that a competing agent discontinued Weidian purchasing) — cited as third-party opinion, not verified fact.</li>
+<li>cnfans.chat "Kakobuy vs CNFANS" series — competitor content about CNFans, referenced to explain search-result confusion; not about CFans.</li>
+</ul>
+<hr />

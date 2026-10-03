@@ -1,0 +1,166 @@
+<p><strong>Short answer:</strong> Both Fishgoo and CFans advertise a 0% purchasing fee — so the headline rate cannot decide this comparison, and any article claiming one is "cheaper overall" from the headline alone is guessing. The real comparison is the <strong>full fee stack</strong>: everything charged after the 0%. CFans publishes a 24-hour purchasing SLA, 60 days of free storage, and no surcharge on make-up payments in writing (all verified from cfans.com, September 2026). Fishgoo publishes its own stack on its official blog — 5 free QC photos, 100 days of storage, 2000+ shipping routes, ~1.5% self-disclosed FX markup (all transcribed as published — verify live). <strong>Compare the full stack, not the headline rate, and pick the agent whose written terms match how you buy.</strong></p>
+<p>[[IMG:fishgoo-vs-cfans-2026-cover.png|Fishgoo vs CFans: Which Is Better in 2026? — cover]]</p>
+<p>This is the hardest comparison in the series to write honestly, which is why it gets the strictest method: a side-by-side table where <strong>both columns are labeled by source</strong>, and no total-price conclusion. If you want someone to declare a winner on price, this article will disappoint you — deliberately. What it gives you instead is the complete checklist for deciding yourself.</p>
+<p>Why most 0%-vs-0% content fails readers: it treats the headline as the comparison and stops. But a 0% purchasing fee was never the whole price of using an agent — it is the admission ticket. The actual bill is assembled from FX spreads, storage renewals, QC extras, payment-side terms, and make-up policies, most of which never appear in a headline. Two agents can both truthfully advertise 0% and produce meaningfully different totals on the same basket. Articles that ignore that are not comparing; they are repeating marketing copy with extra steps.</p>
+<h2>Important: CFans Is Not CNFans</h2>
+<p>First, the name issue search engines create: <strong>CFans (cfans.com) and CNFans (cnfans.com) are two unrelated companies.</strong> A search for "fishgoo vs cfans" returns the cnfans.chat series "FishGoo vs CNFANS" — template-style content about the other company. This article is about <strong>CFans</strong> only. Full breakdown: <a href="https://www.aigcmkt.com/en/cfans-vs-cnfans-2026.html">CFans vs CNFans: not the same company</a>.</p>
+<h2>How We Compared the Two Agents</h2>
+<p>The method for this article, stated upfront because the 0%-vs-0% setup invites shortcuts:</p>
+<ul>
+<li><strong>CFans figures</strong>: read directly from cfans.com's public Help Center, verified September 2026.</li>
+<li><strong>Fishgoo figures</strong>: transcribed from Fishgoo's official blog as published (checked October 2026), each marked verify live. We do not audit Fishgoo's claims and we do not dispute them — a self-published figure we cannot verify is labeled, not attacked.</li>
+<li><strong>What we refuse to do</strong>: declare either agent "cheaper overall." With both headline rates at 0%, total cost depends on FX, storage behavior, QC extras, and order pattern — variables no article can fix for you.</li>
+<li>Fishgoo's own comparison table marks competitors "Not published." We do not use that device here: every Fishgoo cell below carries its source, and every CFans cell carries its verification date.</li>
+</ul>
+<p>For background on <a href="https://www.aigcmkt.com/en/taobao-agent-cost-2026.html">agent cost structures</a> and <a href="https://www.aigcmkt.com/en/taobao-buying-agent-explained-2026.html">what a buying agent does</a>, see our guides.</p>
+<h2>Fishgoo vs CFans: Side-by-Side (Both Columns Sourced)</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Fishgoo</strong> (official blog, as published — verify live)</th>
+<th><strong>CFans</strong> (Help Center — verified Sep 2026)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Purchasing fee</td>
+<td>0% (self-published)</td>
+<td><strong>0%</strong> basic purchasing fee</td>
+</tr>
+<tr>
+<td>Free QC photos</td>
+<td>5, described as HD (self-published)</td>
+<td><strong>3–5 per item</strong></td>
+</tr>
+<tr>
+<td>QC defect standard</td>
+<td>Verify live</td>
+<td>Diameter ≥ 0.5 cm or length ≥ 1 cm</td>
+</tr>
+<tr>
+<td>Paid QC options</td>
+<td>Verify live</td>
+<td>Custom photo 1.5 RMB/piece; video QC 35 RMB/item</td>
+</tr>
+<tr>
+<td>Free storage</td>
+<td>100 days (self-published)</td>
+<td><strong>60 days</strong></td>
+</tr>
+<tr>
+<td>Storage renewal</td>
+<td>Verify live</td>
+<td>10 RMB per extra 30 days</td>
+</tr>
+<tr>
+<td>FX markup</td>
+<td>~1.5% (self-disclosed on blog)</td>
+<td>Not published — verify live</td>
+</tr>
+<tr>
+<td>PayPal / payment surcharge</td>
+<td>No surcharge (self-published)</td>
+<td>Top-up via card/PayPal, min. CNY 6.10, 1–120 min credit</td>
+</tr>
+<tr>
+<td>Purchasing SLA</td>
+<td>Verify live</td>
+<td><strong>Within 24 hours after payment</strong></td>
+</tr>
+<tr>
+<td>Warehouse check-in</td>
+<td>Verify live</td>
+<td>3–5 business days</td>
+</tr>
+<tr>
+<td>Shipping routes</td>
+<td>2000+ lines (self-published); EU tax-free lines (self-published)</td>
+<td>1000 g examples: USA ¥250.85/8–12d; UK ¥162.40/9–12d; DE ¥171.10/8–13d (examples, not quotes, ±5–10% float)</td>
+</tr>
+<tr>
+<td>Make-up price-difference payments</td>
+<td>Verify live</td>
+<td>Threshold min(2% of item total, ¥10), <strong>no surcharge</strong></td>
+</tr>
+<tr>
+<td>Track record</td>
+<td>3+ years (self-described)</td>
+<td>Verify live</td>
+</tr>
+</tbody>
+</table>
+<p>[[IMG:fishgoo-vs-cfans-2026-fig1.png|Fishgoo vs CFans: Which Is Better in 2026? — 横向对照迷你表，双来源标注]]</p>
+<p>Read the table the way it is meant to be read: not as a scorecard with a winner, but as <strong>two different philosophies of disclosure</strong>. Fishgoo's column is broad and self-published on its blog — generous headline figures (100 days, 2000+ lines) with some terms left to confirm. CFans' column is narrower but every cell traces to a Help Center page with a verification date. Neither philosophy is proof of the other being worse; they are different bets about what buyers value.</p>
+<h2>Reading Fishgoo's Own Comparison Table — Fairly</h2>
+<p>Fishgoo's blog runs one of the sharpest comparison tables in the niche: its "8 Compared, Real Orders" piece lists its own figures against competitors — and marks competitors' columns "Not published" wherever it could not find a figure. That device deserves a fair reading, because it cuts both ways.</p>
+<p>As a disclosure philosophy, "Not published" is honest about the author's limits: it says "I looked and did not find it" rather than inventing a number. We apply the same principle in this article — every Fishgoo cell carries its source, every CFans cell its verification date, and gaps say "verify live."</p>
+<p>As a competitive device, it flatters the author: the table always shows one complete column (Fishgoo's) against visibly incomplete ones. Readers should notice the asymmetry without being told what to conclude from it — an incomplete column is evidence about disclosure, not evidence about price or quality.</p>
+<p>The standard we hold this article to: transcribe Fishgoo's self-published figures exactly as published, label each, dispute none, and give CFans' side the same labeled treatment. If a future version of Fishgoo's table linked every "Not published" cell to the competitor's actual policy page, it would be the best table in the niche. Until then, build your own — the five-line fee-stack sheet in the next section is the template.</p>
+<h2>0% vs 0%: Where the Real Difference Is</h2>
+<p>When two agents both advertise 0%, the headline has done all it can do. Total cost is decided after it, in the fee stack:</p>
+<ol>
+<li><strong>Foreign-exchange markup.</strong> Fishgoo self-discloses ~1.5% on its blog (verify live) — unusual candor, and credit for publishing it. CFans has no published FX figure we could verify; confirm live. On a ¥5,000 order, a 1.5% spread is ¥75 — larger than many buyers' entire QC budget. This single line can outweigh the headline rate, which is why it belongs in every comparison and almost never appears in any.</li>
+<li><strong>Payment surcharges.</strong> Fishgoo states no PayPal surcharge (self-published — verify live). CFans' published terms cover top-up minimums and timing (CNY 6.10 minimum, 1–120 minute credit, verified) — read the live Help Center for any payment-side fees.</li>
+<li><strong>Storage renewal.</strong> Fishgoo's 100 free days are self-published; renewal pricing was not on the pages transcribed — verify live. CFans: 60 days free, then 10 RMB per 30 days (verified). If you hold parcels past the free window, renewal price — not headline days — is the number that bills you.</li>
+<li><strong>Make-up payments.</strong> CFans: no surcharge, threshold min(2% of item total, ¥10) (verified). Fishgoo: verify live.</li>
+<li><strong>Paid QC extras.</strong> CFans: 1.5 RMB/photo, 35 RMB/video (verified). Fishgoo: verify live.</li>
+</ol>
+<p>The methodology, in one line: <strong>list every line that can appear on the bill, then compare the lists.</strong> Any "versus" article that stops at the headline rate — including one that favors the agent you prefer — is not finished.</p>
+<h2>QC Photos: 5 vs 3–5</h2>
+<ul>
+<li><strong>Fishgoo:</strong> 5 free QC photos per item, described as HD on its official blog (verify live).</li>
+<li><strong>CFans:</strong> 3–5 free QC photos per item with a published defect standard (≥0.5 cm / ≥1 cm), verified September 2026.</li>
+</ul>
+<p>On count alone, Fishgoo's published figure is higher. On documentation, CFans publishes what counts as a defect. We claim nothing about sharpness, lighting, or usefulness — no controlled comparison exists, and adjectives are not evidence. If QC is your deciding factor, compare sample galleries and recent buyer posts from both.</p>
+<h2>Storage: 100 Days vs 60 Days</h2>
+<p>Fishgoo's self-published 100 days (verify live) is the longer headline allowance; CFans' verified 60 days comes with a published renewal price (10 RMB/30 days). The question that matters is behavioral: do your parcels actually sit longer than 60 days? Most consolidation flows — even slow ones across many 1688 sellers — clear within two months. If yours do not, price Fishgoo's renewal terms (verify live) against CFans' published ¥10 and decide on your own pattern, not the headline.</p>
+<h2>Shipping Routes and EU Lines</h2>
+<p>Fishgoo's 2000+ shipping lines and EU tax-free lines are self-published figures (verify live) — the widest route menu claimed by any agent in this series, and genuinely useful if you ship to less-common destinations or need tax-included EU options. We do not dispute the count; we could not independently verify it, so it is labeled as published.</p>
+<p>CFans publishes 1000 g worked examples rather than a route count: USA ¥250.85 / 8–12 days, UK ¥162.40 / 9–12 days, Germany ¥171.10 / 8–13 days (September 2026 — examples for estimating, not quotes, ±5–10% float). Different disclosure style, same advice: pull a live quote for your country and weight. Our <a href="https://www.aigcmkt.com/en/shipping-from-china-to-europe-2026.html">Europe shipping guide</a> and <a href="https://www.aigcmkt.com/en/cheapest-taobao-agent-2026.html">cheapest-agent ranking</a> add context.</p>
+<h2>Trust and Track Record</h2>
+<p>"Is Fishgoo legit?" is a high-volume question — Fishgoo's own blog targets it, which tells you the demand is real. What public sources say: Fishgoo describes itself as operating for 3+ years (self-described — verify live); its blog runs an active 2026 content program, the most aggressive among the agents in this series. Community self-reporting puts its Reddit haul-post volume below Sugargoo's (by Fishgoo's own admission), which cuts both ways — smaller community, less noise.</p>
+<p>CFans' trust case is documentary rather than reputational: a 24-hour purchasing SLA, 3–5 business day check-in, and no-surcharge make-up terms, all in the public Help Center with a September 2026 verification date. Written commitments versus operating history are, again, two different kinds of assurance. Weight them according to what has burned you before.</p>
+<p>A note on what "verify live" means in practice, since this article says it more than a dozen times: open the agent's official pricing or policy page, find the specific term, and screenshot it with the date. If the term is not there, ask support in writing and save the reply. Ten minutes of this before your first order is worth more than any comparison article — including this one.</p>
+<h2>Who Should Choose Which</h2>
+<p><strong>Consider Fishgoo if:</strong> you want the widest published route menu (2000+ lines claimed) and EU tax-free options; the 100-day headline storage fits a slow-buying pattern; you are comfortable with blog-published figures confirmed at order time. Verify the fee-stack lines above live before your first order.</p>
+<p><strong>Consider CFans if:</strong> you want every commitment — 0% fee, 24-hour purchasing SLA, 60-day storage with priced renewal, no-surcharge make-ups — in a public Help Center before you pay; you prefer documented terms over headline figures. Fee-stack-first buyers tend to land here.</p>
+<p><strong>Do this regardless of brand:</strong> write down the five fee-stack lines (FX, payment surcharge, storage renewal, make-up terms, paid QC) and fill them from both agents' live pages. The filled sheet is worth more than any verdict paragraph — including this article's.</p>
+<p><strong>The tiebreaker question:</strong> open both agents' policy pages right now and find the FX term. Whichever page answers faster is telling you something about how the company communicates — and communication quality predicts support quality better than any review score. In a 0%-vs-0% market, disclosure is the product.</p>
+<p>Still comparing? <a href="https://www.aigcmkt.com/en/fishgoo-alternatives-2026.html">Fishgoo alternatives</a> covers seven options, and <a href="https://www.aigcmkt.com/en/why-choose-cfans-2026.html">why buyers choose CFans</a> consolidates the verified policy stack.</p>
+<h2>Verdict: Fishgoo vs CFans</h2>
+<p><strong>Both Fishgoo and CFans advertise a 0% purchasing fee (Fishgoo's figure is self-published on its blog — verify live; CFans' 0% is verified from cfans.com's Help Center, September 2026) — the real difference is everything after the fee: CFans publishes a 24-hour purchasing SLA, 60 days of free storage, and no surcharge on make-up payments in writing, so compare the full fee stack, not the headline rate.</strong> Route-maximizers with slow-buying patterns have legitimate reasons to prefer Fishgoo's published menu — just fill in the fee-stack sheet from live pages first.</p>
+<p>[[IMG:fishgoo-vs-cfans-2026-fig2.png|Fishgoo vs CFans: Which Is Better in 2026? — fee-stack 五项卡，标题 "The 5 lines that decide total cost"]]</p>
+<h2>FAQ</h2>
+<h3>Is Fishgoo legit?</h3>
+<p>Fishgoo is an operating buying agent with a self-described 3+ year history and an active official blog (verify live). "Legit" ultimately means published terms, working support, and delivered parcels — verify the terms yourself from its live pages and check recent buyer feedback for the rest. We neither endorse nor dispute its claims; we transcribe them as published.</p>
+<h3>Is Fishgoo really 0% fee?</h3>
+<p>That is Fishgoo's self-published headline figure on its official blog (verify live). CFans' 0% basic purchasing fee is verified from its Help Center (September 2026). With both at 0%, the honest question is what each charges after the headline — see the fee-stack section.</p>
+<h3>Which is cheaper overall, Fishgoo or CFans?</h3>
+<p>No honest article can answer that from headline rates alone. Total cost depends on FX markup (Fishgoo self-discloses ~1.5% — verify live), storage behavior, paid QC extras, and your order pattern. Fill the five-line fee-stack sheet from both agents' live pages; that is the only valid answer.</p>
+<h3>Is CFans the same as CNFans?</h3>
+<p>No. CFans (cfans.com) and CNFans (cnfans.com) are unrelated companies. The "FishGoo vs CNFANS" content farm series is about the other company. All CFans figures here are about CFans only.</p>
+<h3>How many free QC photos do I get?</h3>
+<p>Fishgoo: 5 per item, described as HD (official blog — verify live). CFans: 3–5 per item with a published defect standard (verified September 2026). Compare samples rather than trusting adjectives about quality.</p>
+<h3>Which has longer free storage?</h3>
+<p>Fishgoo's self-published 100 days (verify live) versus CFans' verified 60 days. Confirm renewal pricing live for Fishgoo; CFans renewal is 10 RMB per 30 days (verified).</p>
+<h3>What is Fishgoo's exchange rate markup?</h3>
+<p>Fishgoo's blog self-discloses approximately 1.5% (verify live) — unusually candid. CFans has no verified published FX figure; confirm live. On large orders this line can exceed the entire QC budget, so do not skip it.</p>
+<h3>Does Fishgoo charge extra for PayPal?</h3>
+<p>Fishgoo's blog states no PayPal surcharge (self-published — verify live). For CFans, the verified terms cover top-up minimums (CNY 6.10) and timing (1–120 minutes); read the live Help Center for current payment-side terms.</p>
+<h3>Which is better for shipping to Europe?</h3>
+<p>Fishgoo publishes 2000+ lines including EU tax-free options (self-published — verify live). CFans publishes worked 1000 g examples: Germany ¥171.10 / 8–13 days, UK ¥162.40 / 9–12 days (September 2026; examples, not quotes, ±5–10% float). Pull live quotes for your destination and weight.</p>
+<h3>Can I use both agents?</h3>
+<p>Yes. Some buyers use Fishgoo for destinations where its route menu shines and CFans where written SLAs matter most. Nothing requires exclusivity — compare the fee stack per use case.</p>
+<h3>Does Fishgoo really have 2000+ shipping lines?</h3>
+<p>That is Fishgoo's self-published figure on its official blog (verify live). We have not independently counted its routes, and we do not dispute the claim — route counts are hard to audit from outside. If unusual destinations matter to you, confirm your specific country and parcel type is served before ordering.</p>
+<h3>Fishgoo vs CFans for first-time buyers?</h3>
+<p>First-time buyers usually fear two things: doing it wrong and being charged unexpectedly. Fishgoo's active blog and route menu address the first fear; CFans' published Help Center terms address the second. Pick the fear that keeps you up at night — or run one small test order with each agent and compare the actual bills.</p>
+<p>[[IMG:fishgoo-vs-cfans-2026-fig3.png|Fishgoo vs CFans: Which Is Better in 2026? — 方法论卡]]</p>
+<h2>Sources</h2>
+<ul>
+<li>CFans Help Center (cfans.com) — 0% basic purchasing fee; free QC 3–5 photos with defect standard ≥0.5 cm / ≥1 cm; paid QC 1.5 RMB/photo, 35 RMB/video; 24-hour purchasing SLA; 3–5 business day warehouse check-in; 60-day free storage, 10 RMB per 30-day renewal; make-up payment threshold min(2% of item total, ¥10) with no surcharge; top-up minimum CNY 6.10 via credit card/PayPal credited in 1–120 minutes; 1000 g shipping examples (USA ¥250.85 / 8–12 days; UK ¥162.40 / 9–12 days; Germany ¥171.10 / 8–13 days; examples, not quotes, ±5–10% float). Verified September 2026.</li>
+<li>Fishgoo official blog (blog.fishgoo.com) — "Cheapest Taobao Agent &amp; Proxy 2026: 8 Compared, Real Orders" (0% fee, 5 QC photos, 100-day storage, 2000+ lines, "Not published" competitor column — August 2026); "Fishgoo vs Other Taobao Agents" (0% vs Superbuy ~5% / Sugargoo ~5% / CSSBuy ~3%); "Taobao Agent Reddit 2026" (community volume self-assessment); "Weidian 2026: 15–40% Cheaper Than Taobao"; "Is Using a Taobao Agent Safe? Fishgoo Reviewed (2026)." All transcribed as published; verify live. FX ~1.5% and no-PayPal-surcharge per its self-disclosed figures.</li>
+<li>cnfans.chat "FishGoo vs CNFANS" series — competitor content about CNFans, referenced to explain search-result confusion; not about CFans.</li>
+</ul>
+<hr />

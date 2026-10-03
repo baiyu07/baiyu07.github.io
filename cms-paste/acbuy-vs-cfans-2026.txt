@@ -1,0 +1,159 @@
+<p><strong>Short answer:</strong> ACBuy is praised for fast processing and a clean, modern interface — that reputation is consistent across community reviews. But third-party comparisons have flagged "extra charges" (clearance, handling) on ACBuy orders, which raises the question this article is built around: what does the order actually cost beyond the headline fee? CFans answers that question in writing — a 0% basic purchasing fee and no surcharge on make-up price-difference payments, both verified from cfans.com's Help Center (September 2026). <strong>If your priority is zero hidden charges with the policy stated upfront, CFans is the pick; if you prize ordering speed and interface polish above all, ACBuy's reputation there is real.</strong></p>
+<p>[[IMG:acbuy-vs-cfans-2026-cover.png|ACBuy vs CFans: Which Is Better in 2026? — cover]]</p>
+<p>Most "ACBuy vs …" content concludes there is "no clear winner" and moves on. That is the easy answer, and it is not useful. The useful question — the one buyers actually type into search, "does ACBuy charge extra fees?" — has never been answered with documents. This article answers it as far as public sources allow, and shows what a fully documented alternative looks like.</p>
+<p>ACBuy entered this niche with a clear pitch — fast processing, a clean interface, experienced-user approval — and community reviews suggest the pitch mostly holds. What never got the same scrutiny is the rest of the bill. This article gives both halves equal weight: the reputation, stated fairly, and the charges, documented as far as public sources allow.</p>
+<h2>Important: CFans Is Not CNFans</h2>
+<p>A necessary clarification: <strong>CFans (cfans.com) and CNFans (cnfans.com) are two unrelated companies.</strong> Search engines rewrite "cfans" as "cnfans," so "acbuy vs cfans" searches return Medium posts like "Is There a Clear Winner Between CNFans and Acbuy?" — written about the other company. Their "no clear winner" narrative does not apply here. This article compares ACBuy against <strong>CFans</strong> only. Full breakdown: <a href="https://www.aigcmkt.com/en/cfans-vs-cnfans-2026.html">CFans vs CNFans: not the same company</a>.</p>
+<h2>How We Compared the Two Agents</h2>
+<ul>
+<li><strong>CFans figures</strong>: read directly from cfans.com's public Help Center, verified September 2026.</li>
+<li><strong>ACBuy figures</strong>: only from ACBuy's official pages and attributed third-party sources. The "extra charges" note comes from Sugargoo's official blog test (transcribed as a third-party claim — verify live), not from our own audit. A third-party product page (basetaoproducts.com) describes ACBuy's commission as "Free + $0.30/item" — again a third-party claim, marked verify live.</li>
+<li><strong>Reputation</strong> (fast processing, clean interface, experienced-user preference) is cited as community consensus from Medium and Reddit posts, not as verified fact.</li>
+<li>No test purchases claimed for either agent.</li>
+</ul>
+<p>For the fundamentals — <a href="https://www.aigcmkt.com/en/taobao-buying-agent-explained-2026.html">what a buying agent does</a> and <a href="https://www.aigcmkt.com/en/taobao-agent-cost-2026.html">how agent costs break down</a> — see our guides.</p>
+<h2>ACBuy vs CFans: Side-by-Side</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>ACBuy</strong></th>
+<th><strong>CFans</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basic purchasing fee / commission</td>
+<td>"Free + $0.30/item" per third-party product page — verify live on official pricing</td>
+<td><strong>0%</strong> basic purchasing fee (Help Center, verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Extra charges (clearance, handling)</td>
+<td>Noted in Sugargoo's official blog test — verify live</td>
+<td><strong>None published</strong>; make-up payments carry <strong>no surcharge</strong> (verified)</td>
+</tr>
+<tr>
+<td>Free QC photos</td>
+<td>3 (Sugargoo blog test — verify live)</td>
+<td><strong>3–5 per item</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Defect standard for QC</td>
+<td>Verify live</td>
+<td>Diameter ≥ 0.5 cm or length ≥ 1 cm (verified)</td>
+</tr>
+<tr>
+<td>Paid QC options</td>
+<td>Verify live</td>
+<td>Custom photo 1.5 RMB/piece; video QC 35 RMB/item (verified)</td>
+</tr>
+<tr>
+<td>Free storage</td>
+<td>90 days (Sugargoo blog test — verify live)</td>
+<td><strong>60 days</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Storage renewal</td>
+<td>Verify live</td>
+<td>10 RMB per extra 30 days (verified)</td>
+</tr>
+<tr>
+<td>Purchasing SLA</td>
+<td>Fast processing (community reputation — not a published SLA we could verify)</td>
+<td><strong>Within 24 hours after payment</strong> (verified)</td>
+</tr>
+<tr>
+<td>Interface</td>
+<td>Clean, modern (community consensus)</td>
+<td>Verify live</td>
+</tr>
+<tr>
+<td>Top-up</td>
+<td>Verify live</td>
+<td>Credit card / PayPal, min. CNY 6.10, credited in 1–120 min (verified)</td>
+</tr>
+<tr>
+<td>Make-up price-difference payments</td>
+<td>Verify live</td>
+<td>Threshold min(2% of item total, ¥10), <strong>no surcharge</strong> (verified)</td>
+</tr>
+</tbody>
+</table>
+<p>[[IMG:acbuy-vs-cfans-2026-fig1.png|ACBuy vs CFans: Which Is Better in 2026? — 横向对照迷你表]]</p>
+<h2>The "Extra Charges" Question</h2>
+<p>This is the section no other comparison writes, and the reason this article exists.</p>
+<p>In Sugargoo's official blog test ("Sugargoo vs CNFans vs ACBuy: Best Taobao Agent for UK Shoppers"), the ACBuy column lists <strong>"Extra charges (clearance, handling)"</strong> alongside its 90-day storage and 3-QC-photo figures. That is a competitor's characterization, transcribed here as a third-party claim — verify live — not our finding. But it points at the exact question buyers ask: <strong>beyond the headline commission, what else gets added to the bill?</strong></p>
+<p>Here is what a complete answer looks like, using CFans as the documented example:</p>
+<ul>
+<li><strong>Purchasing fee:</strong> 0% — standing Help Center policy, verified September 2026.</li>
+<li><strong>Price-difference adjustments:</strong> if an item's price moves between order and purchase, the make-up threshold is min(2% of the item total, ¥10) — and the make-up payment carries <strong>no surcharge</strong>. Verified, in writing.</li>
+<li><strong>Priced extras:</strong> custom QC photo 1.5 RMB/piece, video QC 35 RMB/item, storage renewal 10 RMB per 30 days. Each with a number attached.</li>
+<li><strong>Result:</strong> the set of possible charges is enumerable before you order. Nothing in the published stack says "and then handling."</li>
+</ul>
+<p>We are not asserting ACBuy's extra charges as fact — we have not audited ACBuy's checkout. We are saying: <strong>the question is legitimate, it is asked often enough to appear in third-party tests, and any agent should be able to answer it the way the list above does.</strong> Before you commit to ACBuy, ask its support for the written list of every charge beyond commission, and compare it against the list above. That single question is worth more than ten review adjectives.</p>
+<p>What do "clearance" and "handling" usually mean in this industry, in general terms? Clearance-related charges typically relate to customs processing on specific shipping lines — some lines bundle it, some bill it separately, and the treatment varies by destination country. Handling can cover anything from repackaging labor to parcel intake operations. The point is not that these charges are illegitimate — legitimate warehouses have real costs. The point is whether they are <strong>disclosed before you are committed</strong>. A disclosed handling fee is a line item you can budget; an undisclosed one is a surprise. That distinction is the entire basis of this article's verdict, and it applies to every agent in the niche, CFans included.</p>
+<h2>Service Fees Compared</h2>
+<ul>
+<li><strong>CFans:</strong> 0% basic purchasing fee (verified September 2026). The fee line is ¥0 at any order size.</li>
+<li><strong>ACBuy:</strong> a third-party product page describes the commission as "Free + $0.30 per item" — transcribed as a third-party claim, verify live on ACBuy's official pricing page. Note the structure: per-item rather than percentage-based, which favors large orders and penalizes multi-item small orders differently than a flat percentage would. Run your own basket through both structures before concluding which is cheaper for you.</li>
+</ul>
+<p>A note on sourcing discipline, since this section leans on third-party claims more than the others: basetaoproducts.com's "Free + $0.30/item" description and Sugargoo's "extra charges" note are transcribed here because they are the most specific public statements available — not because we endorse them. Third-party claims in this niche have a short half-life; fee structures change without announcement. The verify-live labels are not decoration. If you act on this article in any way, act on the instruction to check the live pages, not on the transcribed digits.</p>
+<p>Do not let anyone — including this article — convert those two lines into "X is cheaper." The honest comparison is structural: percentage-of-order versus per-item, published versus third-party-reported. Your order pattern decides the winner.</p>
+<h2>Per-Item vs Percentage: How the Fee Structures Diverge</h2>
+<p>The two reported fee structures bill different behaviors — and understanding the shape matters more than the headline.</p>
+<p>CFans' 0% is percentage-based at zero: the fee line does not move with order size or item count. Ten items or one, ¥200 or ¥20,000 — the purchasing fee is ¥0 (verified September 2026).</p>
+<p>ACBuy's reported structure — "Free + $0.30 per item" per a third-party product page (verify live on official pricing) — is per-item: the fee grows with the number of items, not the order value. To illustrate the shape with labeled arithmetic (not a quote): 20 items at $0.30 is $6.00 in per-item fees whether those items cost $2 or $200 each. A buyer placing one ¥3,000 order as a single item sees a negligible fee; a buyer placing thirty ¥100 items sees $9.00.</p>
+<p>Neither shape is universally better. Bulk single-item buyers and multi-item small-order buyers face opposite math — which is precisely why "which is cheaper" has no generic answer. The practical move: take your last three real orders (or three planned ones), run each through both structures using live figures, and total them. Fifteen minutes with your own baskets beats any generic verdict, including any you read here.</p>
+<h2>QC Photos Compared</h2>
+<ul>
+<li><strong>ACBuy:</strong> 3 free QC photos per item, per Sugargoo's blog test (verify live).</li>
+<li><strong>CFans:</strong> 3–5 free QC photos per item with a published defect standard (≥0.5 cm diameter or ≥1 cm length), verified September 2026; paid extras at 1.5 RMB/photo and 35 RMB/video.</li>
+</ul>
+<p>The counts are close enough that the differentiator is documentation, not quantity: CFans publishes what counts as a defect; for ACBuy, confirm the QC terms live. As ever, we claim nothing about photo quality — compare samples, not adjectives.</p>
+<h2>Storage: 90 Days vs 60 Days</h2>
+<p>ACBuy's reported 90 days of free storage (Sugargoo blog test — verify live) is longer than CFans' verified 60 days, and for slow consolidators that is a real edge. CFans renewal is 10 RMB per extra 30 days (verified) — so the practical question is whether your holding pattern exceeds two months, and what the renewal costs if it does. Get ACBuy's renewal terms live; they were not on the pages we transcribed.</p>
+<h2>Speed and Interface: ACBuy's Reputation, Stated Fairly</h2>
+<p>This is where we give ACBuy its due without hedging: <strong>across community reviews, ACBuy's ordering speed and interface polish are its most consistently praised traits.</strong> Experienced users describe a faster workflow than alternatives; interface comparisons favor its direct, efficient layout. We do not dispute it.</p>
+<p>What we will not do is declare a speed winner. "Fast processing" as community reputation is not the same as a published SLA — CFans publishes "within 24 hours after payment" (verified September 2026), which is a commitment you can hold someone to. Reputation versus written commitment is not a race with a finish line; it is two different kinds of assurance. Decide which kind you trust more.</p>
+<p>There is a practical way to think about it: a reputation helps you predict the typical case; a written SLA protects you in the bad case. If your orders are routine and you value the typical case being fast, ACBuy's reputation is the relevant signal. If you have ever had an order sit unprocessed and wanted a written term to point at, the SLA is the relevant signal. Most buyers overweight the typical case until the bad case happens to them once.</p>
+<h2>Who Should Choose Which</h2>
+<p><strong>Choose ACBuy if:</strong> ordering speed and interface efficiency are your top criteria; you are an experienced buyer who values a fast workflow; you have confirmed the full charge list — including any clearance or handling extras — in writing with support before your first order.</p>
+<p><strong>Choose CFans if:</strong> you want every possible charge enumerated in a public Help Center before you pay; you want a 0% purchasing fee and a no-surcharge make-up policy as standing terms; you prefer a 24-hour purchasing SLA in writing over a speed reputation. Buyers who have been surprised by add-on charges before tend to weight this heavily.</p>
+<p><strong>The one question to ask either agent:</strong> "List every charge beyond the headline commission, in writing." The quality of the answer tells you most of what a comparison article can.</p>
+<p>One final framing note: this comparison rewards the buyer who reads like an auditor. Headline commissions are marketing; charge lists are contracts. Every agent in this niche — CFans included — should be judged on the second, because the second is what your card is actually charged against. Start with the question, not the ranking.</p>
+<p>Still surveying? <a href="https://www.aigcmkt.com/en/acbuy-alternatives-2026.html">ACBuy alternatives compared</a> covers seven options side by side, and <a href="https://www.aigcmkt.com/en/why-choose-cfans-2026.html">why buyers choose CFans</a> puts the verified policy stack on one page. For the 1688 angle, see our <a href="https://www.aigcmkt.com/en/1688-agent-guide-2026.html">1688 agent guide</a>.</p>
+<h2>Verdict: ACBuy vs CFans</h2>
+<p><strong>ACBuy is praised for fast processing and a clean interface, but third-party comparisons note extra clearance and handling charges (verify live) — CFans charges a 0% basic purchasing fee and applies no surcharge on make-up price-difference payments (both verified from cfans.com, September 2026), so buyers who want zero hidden charges should pick CFans.</strong> If interface speed is your top criterion and you have confirmed ACBuy's full charge list in writing, its reputation there is genuine.</p>
+<p>[[IMG:acbuy-vs-cfans-2026-fig2.png|ACBuy vs CFans: Which Is Better in 2026? — 费用清单卡，标题 "What a complete answer looks like"]]</p>
+<h2>FAQ</h2>
+<h3>Does ACBuy charge extra fees?</h3>
+<p>Sugargoo's official blog test lists "Extra charges (clearance, handling)" for ACBuy — that is a third-party claim, not our audit. The honest answer: ask ACBuy support for a written list of all charges beyond commission before ordering, and compare it against CFans' published list (0% fee, priced QC extras, 10 RMB/30-day storage renewal, no surcharge on make-ups). The question itself is the right one to ask.</p>
+<h3>Is CFans the same as CNFans?</h3>
+<p>No. CFans (cfans.com) and CNFans (cnfans.com) are unrelated companies. The Medium "ACBuy vs CNFans" posts are about the other company; this article's CFans figures are about CFans only.</p>
+<h3>Is ACBuy faster than CFans?</h3>
+<p>Community reviews consistently praise ACBuy's processing speed and interface. CFans publishes a 24-hour purchasing SLA (verified September 2026). Reputation and a written SLA are different kinds of assurance — we will not declare a speed winner without a controlled comparison.</p>
+<h3>Which is cheaper overall?</h3>
+<p>It depends on your basket. CFans' 0% fee is verified; ACBuy's reported "Free + $0.30/item" structure (third-party claim — verify live) favors large orders and penalizes multi-item small ones differently. Add the full fee stack — including any extra charges you confirm live — before deciding.</p>
+<h3>How many free QC photos does each give?</h3>
+<p>ACBuy: 3 per Sugargoo's blog test (verify live). CFans: 3–5 with a published defect standard (verified September 2026).</p>
+<h3>What happens if an item's price changes after I order?</h3>
+<p>On CFans, the make-up threshold is min(2% of the item total, ¥10), and the make-up payment carries no surcharge (verified September 2026). For ACBuy, confirm the policy live — this is exactly the kind of term that should be in writing before you need it.</p>
+<h3>Which has longer free storage?</h3>
+<p>ACBuy's reported 90 days (verify live) beats CFans' verified 60 days. CFans renewal is 10 RMB per extra 30 days (verified); confirm ACBuy's renewal terms live.</p>
+<h3>Is ACBuy good for experienced buyers?</h3>
+<p>Community consensus says yes — experienced users praise its fast workflow and efficient interface. If that matches your profile, verify the fee stack live and you have a strong candidate.</p>
+<h3>Can I switch agents if I am unhappy?</h3>
+<p>Yes. Nothing locks you to an agent; parcels in flight should be completed or withdrawn per each agent's terms before switching. Compare the full charge list first — switching because of surprise fees is the most common reason buyers move.</p>
+<h3>ACBuy vs CFans for 1688 wholesale orders?</h3>
+<p>Wholesale orders are usually few items at higher values — the shape where per-item fees are gentlest and percentage fees bite hardest. CFans' 0% is verified; ACBuy's per-item structure is third-party-reported (verify live). Run your actual wholesale baskets through both structures, and confirm ACBuy's full charge list — including any extras — in writing first.</p>
+<h3>What does the "no clear winner" verdict miss?</h3>
+<p>It treats the absence of a price gap as the absence of any difference. Fee-structure shape (per-item versus percentage), documented versus undocumented extras, and written SLA versus reputation are all real differences that "no clear winner" papers over. Ask which of those differences matter to your buying pattern instead of accepting the shrug — the answer is usually more decisive than the verdict it replaces.</p>
+<p>[[IMG:acbuy-vs-cfans-2026-fig3.png|ACBuy vs CFans: Which Is Better in 2026? — 提问卡]]</p>
+<h2>Sources</h2>
+<ul>
+<li>CFans Help Center (cfans.com) — 0% basic purchasing fee; free QC 3–5 photos with defect standard ≥0.5 cm / ≥1 cm; paid QC 1.5 RMB/photo, 35 RMB/video; 24-hour purchasing SLA; 3–5 business day warehouse check-in; 60-day free storage, 10 RMB per 30-day renewal; make-up payment threshold min(2% of item total, ¥10) with no surcharge; top-up minimum CNY 6.10 via credit card/PayPal credited in 1–120 minutes. Verified September 2026.</li>
+<li>Sugargoo official blog (blog.sugargoo.com) — "Sugargoo vs CNFans vs ACBuy: Best Taobao Agent for UK Shoppers" (ACBuy column: "Extra charges (clearance, handling)," 90-day storage, 3 QC photos). Transcribed as a third-party claim; verify live.</li>
+<li>basetaoproducts.com — "ACBUY vs Other Chinese Shopping Agents" (third-party claim: ACBuy commission "Free + $0.30/item"). Verify live.</li>
+<li>Medium/community posts (kasazile50 "Is There a Clear Winner Between CNFans and Acbuy?"; churchildown11 "Acbuy or Kakobuy"; Cassie777 interface comparison) — cited as third-party opinion on ACBuy's speed, interface, and the "no clear winner" narrative; not verified fact.</li>
+</ul>
+<hr />

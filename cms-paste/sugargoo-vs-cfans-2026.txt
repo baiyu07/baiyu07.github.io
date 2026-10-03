@@ -1,0 +1,159 @@
+<p><strong>Short answer:</strong> On fees, the gap is the most visible of any comparison in this series — Sugargoo charges around a 5% service fee (as widely reported from its official pricing page — verify live), while CFans charges a 0% basic purchasing fee (verified from cfans.com's Help Center, September 2026). On storage and community, Sugargoo has genuine strengths: a widely reported 100 days of free storage and one of the most active buyer communities in the niche. So the decision is a trade-off, not a coronation: <strong>fee-first buyers should start with CFans and compare the full stack; long-hoarders and community-oriented buyers have real reasons to look at Sugargoo.</strong></p>
+<p>[[IMG:sugargoo-vs-cfans-2026-cover.png|Sugargoo vs CFans: Which Is Better in 2026? — cover]]</p>
+<p>This is the comparison where the numbers do the most talking — and where it matters most that every number is labeled honestly. Sugargoo's figures below are transcribed from its official blog and pricing page as published, marked "verify live." CFans' figures are from its public Help Center, verified September 2026. Nothing is estimated, rounded into a claim, or borrowed from forum chatter.</p>
+<p>One more note on method: Sugargoo's official comparison content pits itself against CNFans, not CFans — so this article has no predecessor to lean on or argue with. Every Sugargoo figure below is transcribed fresh from its official pages as published. Where the two sources use different units or test conditions (a 2025 parcel test versus 2026 policy pages), the difference is labeled rather than smoothed over.</p>
+<h2>Important: CFans Is Not CNFans</h2>
+<p>One clarification before the comparison: <strong>CFans (cfans.com) and CNFans (cnfans.com) are two unrelated companies.</strong> Search engines frequently rewrite "cfans" as "cnfans," so a search for "sugargoo vs cfans" surfaces content about Sugargoo vs CNFans — including Sugargoo's own official blog post "Sugargoo vs CNFans vs ACBuy." That post is about the other company, not us. This article compares Sugargoo against <strong>CFans</strong> only. The full name breakdown is here: <a href="https://www.aigcmkt.com/en/cfans-vs-cnfans-2026.html">CFans vs CNFans: not the same company</a>.</p>
+<h2>How We Compared the Two Agents</h2>
+<ul>
+<li><strong>CFans figures</strong>: read directly from cfans.com's public Help Center, verified September 2026.</li>
+<li><strong>Sugargoo figures</strong>: transcribed from Sugargoo's official blog and pricing page as published (checked October 2026). Third-party reports widely cite "~5% service fee / ¥4" and "100 days free storage / 800 CNY new-user coupon" — we repeat these only as reported figures marked verify live, not as our own verified facts.</li>
+<li><strong>Community reputation</strong> (Sugargoo's Reddit/Discord presence) is cited as third-party observation, including Fishgoo's own blog noting Sugargoo's larger haul-post volume.</li>
+<li>No test purchases are claimed for either agent.</li>
+</ul>
+<p>A caveat on Sugargoo's figures, stated plainly: its most-cited comparison content is a 2025 UK parcel test, and its pricing page is the live authority. Reported figures like "~5%" and "100 days" are included because they are widely cited and traceable to official sources — not because we re-verified them. Treat them as leads to check, which is exactly what the verify-live labels mean.</p>
+<p>For background on <a href="https://www.aigcmkt.com/en/taobao-buying-agent-explained-2026.html">what a Taobao buying agent does</a> and <a href="https://www.aigcmkt.com/en/taobao-agent-cost-2026.html">how agent pricing works</a>, see our guides.</p>
+<h2>Sugargoo vs CFans: Side-by-Side</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Sugargoo</strong></th>
+<th><strong>CFans</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Service / purchasing fee</td>
+<td>~5% (widely reported from official pricing — verify live)</td>
+<td><strong>0%</strong> basic purchasing fee (Help Center, verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Free QC photos</td>
+<td>5 (official blog — verify live)</td>
+<td><strong>3–5 per item</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Paid QC options</td>
+<td>Verify live</td>
+<td>Custom photo 1.5 RMB/piece; video QC 35 RMB/item (verified)</td>
+</tr>
+<tr>
+<td>Free storage</td>
+<td>100 days (official blog — verify live)</td>
+<td><strong>60 days</strong> (verified Sep 2026)</td>
+</tr>
+<tr>
+<td>Storage renewal</td>
+<td>Verify live</td>
+<td>10 RMB per extra 30 days (verified)</td>
+</tr>
+<tr>
+<td>New-user incentive</td>
+<td>800 CNY shipping coupon (official blog — verify live)</td>
+<td>No published coupon — verify live</td>
+</tr>
+<tr>
+<td>Purchasing SLA</td>
+<td>Verify live</td>
+<td><strong>Within 24 hours after payment</strong> (verified)</td>
+</tr>
+<tr>
+<td>Warehouse check-in</td>
+<td>Verify live</td>
+<td>3–5 business days (verified)</td>
+</tr>
+<tr>
+<td>Top-up</td>
+<td>Verify live</td>
+<td>Credit card / PayPal, min. CNY 6.10, credited in 1–120 min (verified)</td>
+</tr>
+<tr>
+<td>Make-up price-difference payments</td>
+<td>Verify live</td>
+<td><strong>No surcharge</strong>; threshold min(2% of item total, ¥10) (verified)</td>
+</tr>
+<tr>
+<td>Community</td>
+<td>Large Reddit/Discord presence (third-party observation)</td>
+<td>Verify live</td>
+</tr>
+<tr>
+<td>Support hours</td>
+<td>24/7 (self-described — verify live)</td>
+<td>Verify live</td>
+</tr>
+</tbody>
+</table>
+<p>[[IMG:sugargoo-vs-cfans-2026-fig1.png|Sugargoo vs CFans: Which Is Better in 2026? — 横向对照迷你表]]</p>
+<h2>Service Fees: ~5% vs 0%</h2>
+<p>This is the section that decides the comparison for most readers, so it gets the most careful labeling.</p>
+<p><strong>CFans: 0% basic purchasing fee</strong>, a standing Help Center policy verified September 2026. The purchasing-fee line on a CFans order is ¥0 regardless of order size.</p>
+<p><strong>Sugargoo: around 5%</strong>, per its official pricing page as widely reported ("5% / ¥4" appears across third-party summaries). We mark it verify live because we are transcribing, not auditing — Sugargoo's own pages are the authority, and they can change.</p>
+<p>To feel the weight of that gap without pretending it is a quote, here is plain arithmetic, labeled as illustration only: 5% of a ¥3,000 order is ¥150 in service fees. On a ¥500 order it is ¥25. Whether that matters depends on your order size — on small single-item orders the absolute gap is modest; on large consolidated hauls it can exceed the international shipping cost of a small parcel. That is not a claim about Sugargoo's current page; it is what a ~5% fee means mathematically, so you can map it onto your own basket.</p>
+<p>One more fee-stack item favors CFans on paper: <strong>make-up price-difference payments carry no surcharge</strong> (verified September 2026; threshold min(2% of item total, ¥10)). If an item's price shifts between order and purchase, the adjustment is at cost. Check Sugargoo's equivalent term live — it was not on the pages we transcribed.</p>
+<p>A note on reading the "~5%" figure: third-party summaries converge on "5% / ¥4," but forum-era numbers linger long after pricing pages change. The figure's job in this article is to tell you the order of magnitude of the gap, not to substitute for the live page. If Sugargoo's current page shows a different number, the live page wins and this article's arithmetic scales accordingly — the method (compare the full stack, fee-first) does not depend on the exact digit.</p>
+<h2>QC Photos: 5 vs 3–5</h2>
+<ul>
+<li><strong>Sugargoo:</strong> 5 free QC photos per item, per its official blog (verify live).</li>
+<li><strong>CFans:</strong> 3–5 free QC photos per item with a published defect standard (flagged at diameter ≥ 0.5 cm or length ≥ 1 cm), verified September 2026. Paid extras: 1.5 RMB per custom photo, 35 RMB per video QC.</li>
+</ul>
+<p>Numerically, Sugargoo's published allowance is the higher single number. We will not claim whose photos are sharper, better lit, or more useful — no controlled comparison exists, and "better QC" claims without one are marketing. If QC depth is your top criterion, the honest move is to compare sample photos from both agents' galleries and recent buyer posts, not to trust any article's adjective.</p>
+<h2>Storage: 100 Days vs 60 Days</h2>
+<p>Credit where due: <strong>Sugargoo's reported 100 days of free storage is the longer published allowance</strong> (official blog — verify live), and for buyers who consolidate slowly — waiting out sales across seasons, grouping orders from many sellers — that is a genuine advantage.</p>
+<p>CFans offers <strong>60 days free</strong> (verified September 2026), with renewal at 10 RMB per extra 30 days. Sixty days covers the realistic consolidation window for most buyers; a steady stream of Taobao and 1688 parcels will have arrived and shipped well within two months. If you are a deliberate slow-hoarder, price Sugargoo's extra 40 days against CFans' ¥10 renewal and your actual holding pattern — the right answer depends on how you buy, not on the headline number.</p>
+<h2>Shipping to the UK, Europe, and the US</h2>
+<p>Sugargoo's official blog leans heavily on shipping in its self-comparison, citing a 3 kg UK parcel via Royal Mail "from $27.94" in 2025 testing (verify live — that test is a year old; re-check current lines). Its 200+ country coverage and budget-line strategy are well documented in its own content.</p>
+<p>CFans' published 1000 g examples (September 2026 — examples, not quotes, with ±5–10% float) include the UK at ¥162.40 / 9–12 days and Germany at ¥171.10 / 8–13 days. These are Help Center examples for estimating, not a rate card; always pull a live quote for your weight and destination. Our <a href="https://www.aigcmkt.com/en/best-taobao-agent-uk-2026.html">UK buyer guide</a> and <a href="https://www.aigcmkt.com/en/shipping-from-china-to-uk-2026.html">China-to-UK shipping breakdown</a> cover the country-level detail.</p>
+<p>Neither agent publishes a complete public rate table we can reproduce here, so shipping should be compared with two live quotes, not with any article's summary.</p>
+<h2>Community and Support</h2>
+<p>Sugargoo's community is its moat. Its Reddit and Discord presence is the largest among the agents in this series — Fishgoo's own blog concedes the volume gap in haul posts — which means faster peer answers on QC opinions, shipping-line picks, and seller checks. If you learn by watching other buyers, that ecosystem has real value.</p>
+<p>CFans' verified service commitments are narrower but written down: purchasing within 24 hours after payment, 3–5 business day warehouse check-in (both verified September 2026). What CFans does not claim is a community of Sugargoo's scale — and we will not invent one.</p>
+<h2>The Coupon Question: 800 CNY vs 0%</h2>
+<p>Sugargoo's widely reported 800 CNY new-user shipping coupon (official blog — verify live) deserves its own section, because it changes the first-order math completely — and because a coupon and a standing policy are different kinds of value that buyers routinely confuse.</p>
+<p>A coupon is a one-time transfer: generous on order one, gone on order two. If the coupon covers ¥800 of shipping on your first haul, your effective first-order cost with Sugargoo can beat any fee structure on paper. That is real money, and dismissing it would be dishonest.</p>
+<p>A 0% standing fee is the opposite shape: unremarkable on order one, compounding quietly forever. CFans' 0% basic purchasing fee (verified September 2026) applies to every order you will ever place — no expiry, no minimum, no "new users only."</p>
+<p>The arithmetic worth doing: estimate your first-year order volume, apply the coupon once on Sugargoo's side, apply ~5% versus 0% to every order on both sides (with Sugargoo's figure verified live), and see where the lines cross. For a single test order, the coupon side usually wins. For a year of regular buying, the standing-policy side usually wins. Neither fact is hidden; they are just rarely placed next to each other, which is why the coupon-versus-policy framing matters more than either number alone. And if the coupon has expired or changed by the time you read this — which happens often — the standing policy is the only half of the comparison that is still there.</p>
+<h2>Who Should Choose Which</h2>
+<p><strong>Choose Sugargoo if:</strong> you consolidate slowly and want the longest published free-storage window; you value an active buyer community for QC opinions and shipping advice; the ~5% service fee fits comfortably in your per-order math. Verify the current fee and coupon terms live — its new-user 800 CNY shipping coupon is widely reported and worth checking.</p>
+<p><strong>Choose CFans if:</strong> you are fee-first and want a 0% basic purchasing fee as standing, published policy; you want QC allowances, storage terms, and a 24-hour purchasing SLA in writing before you pay; you prefer no-surcharge make-up payments stated upfront. First-time buyers who want zero ambiguity tend to land here.</p>
+<p><strong>Do both:</strong> pull one live shipping quote from each agent for your typical parcel before committing. Ten minutes of quoting beats ten articles of comparing.</p>
+<p>If you are still widening the field, <a href="https://www.aigcmkt.com/en/sugargoo-alternatives-2026.html">Sugargoo alternatives compared</a> covers seven options, and <a href="https://www.aigcmkt.com/en/why-choose-cfans-2026.html">why buyers choose CFans</a> puts the verified policy stack on one page.</p>
+<h2>Verdict: Sugargoo vs CFans</h2>
+<p><strong>Sugargoo charges around a 5% service fee (verify live on its official pricing page) while CFans charges a 0% basic purchasing fee (verified from cfans.com, September 2026) — on the same order the fee gap alone can exceed the price of international shipping for small parcels, so fee-first buyers should start with CFans and compare the full stack.</strong> Buyers who hoard parcels for months or who want the niche's most active community have legitimate reasons to prefer Sugargoo — just verify its current fee schedule live first.</p>
+<p>[[IMG:sugargoo-vs-cfans-2026-fig2.png|Sugargoo vs CFans: Which Is Better in 2026? — 费用差距卡]]</p>
+<h2>FAQ</h2>
+<h3>Is Sugargoo better than CFans?</h3>
+<p>It depends on what you optimize for. On published purchasing fees, CFans' verified 0% beats Sugargoo's reported ~5%. On published free storage, Sugargoo's reported 100 days beats CFans' verified 60 days. On community scale, Sugargoo is ahead by third-party observation. There is no universal winner — match the agent to your buying pattern using the side-by-side table above.</p>
+<h3>Is CFans the same as CNFans?</h3>
+<p>No. CFans (cfans.com) and CNFans (cnfans.com) are unrelated companies. Sugargoo's official "Sugargoo vs CNFans vs ACBuy" post is about the other company. Every CFans figure in this article is about CFans only.</p>
+<h3>Does CFans have a coupon like Sugargoo's 800 CNY new-user coupon?</h3>
+<p>Sugargoo's 800 CNY new-user shipping coupon is widely reported from its official blog (verify live). CFans has no published coupon we could verify as of September 2026 — its standing offer is the 0% basic purchasing fee itself. Check both sites live; promotions change.</p>
+<h3>How much is Sugargoo's service fee exactly?</h3>
+<p>Approximately 5%, per its official pricing page as widely reported (third-party summaries cite "5% / ¥4"). We mark it verify live — read Sugargoo's current pricing page before ordering, because reported figures can lag behind live terms.</p>
+<h3>How many free QC photos does each agent give?</h3>
+<p>Sugargoo: 5 per item (official blog — verify live). CFans: 3–5 per item with a published defect standard (verified September 2026). Neither figure tells you photo quality — compare samples if that matters to you.</p>
+<h3>Which has longer free storage?</h3>
+<p>Sugargoo's reported 100 days (verify live) is longer than CFans' verified 60 days. CFans renewal is 10 RMB per extra 30 days (verified). Choose based on your actual holding pattern.</p>
+<h3>Which is cheaper for shipping to the UK?</h3>
+<p>Sugargoo's blog cites a 2025-tested 3 kg UK parcel via Royal Mail "from $27.94" (verify live — old test). CFans' published 1000 g UK example is ¥162.40 / 9–12 days (September 2026; example, not quote, ±5–10% float). Get two live quotes for your weight — that is the only honest answer.</p>
+<h3>Does CFans charge hidden fees?</h3>
+<p>The verified policy stack lists: 0% basic purchasing fee; priced QC extras (1.5 RMB/photo, 35 RMB/video); 10 RMB per 30-day storage renewal; no surcharge on make-up price-difference payments. That is the complete published list we could verify — read the live Help Center before ordering.</p>
+<h3>Is Sugargoo good for beginners?</h3>
+<p>Its large community makes it beginner-friendly in practice — peer answers to "is this QC okay?" and "which line for Germany?" are plentiful. CFans suits beginners who prefer reading every term upfront. Different kinds of easy.</p>
+<h3>Can I use both agents?</h3>
+<p>Yes, and experienced buyers often do — for example, Sugargoo for slow-consolidation hauls where 100-day storage pays off, CFans for orders where the 0% fee and written SLA matter most. Nothing requires exclusivity.</p>
+<h3>Is Sugargoo's 800 CNY coupon still available?</h3>
+<p>It is widely reported from Sugargoo's official blog (verify live). Coupon terms change frequently — check the live promotions page before counting it in your math, and read the fine print on minimums and expiry. A coupon that expired last quarter is not a feature.</p>
+<h3>Sugargoo vs CFans for UK buyers specifically?</h3>
+<p>Sugargoo built its UK reputation on budget Royal Mail lines — its 2025-tested 3 kg parcel "from $27.94" (verify live; old test, re-check current lines). CFans' published 1000 g UK example is ¥162.40 / 9–12 days (September 2026; example, not quote, ±5–10% float). For UK-specific guidance see our <a href="https://www.aigcmkt.com/en/best-taobao-agent-uk-2026.html">best Taobao agent for UK buyers</a> — then get two live quotes for your weight before deciding.</p>
+<p>[[IMG:sugargoo-vs-cfans-2026-fig3.png|Sugargoo vs CFans: Which Is Better in 2026? — 选购决策卡]]</p>
+<h2>Sources</h2>
+<ul>
+<li>CFans Help Center (cfans.com) — 0% basic purchasing fee; free QC 3–5 photos with defect standard ≥0.5 cm / ≥1 cm; paid QC 1.5 RMB/photo, 35 RMB/video; 24-hour purchasing SLA; 3–5 business day warehouse check-in; 60-day free storage, 10 RMB per 30-day renewal; make-up payment threshold min(2% of item total, ¥10) with no surcharge; top-up minimum CNY 6.10 via credit card/PayPal credited in 1–120 minutes; 1000 g shipping examples (UK ¥162.40 / 9–12 days; Germany ¥171.10 / 8–13 days; USA ¥250.85 / 8–12 days; examples, not quotes, ±5–10% float). Verified September 2026.</li>
+<li>Sugargoo official blog (blog.sugargoo.com) — "Sugargoo vs CNFans vs ACBuy: Best Taobao Agent for UK Shoppers" (3 kg UK test, Royal Mail from $27.94, 2025 data); "Best Taobao Agent for Overseas Buyers in 2025" (5 free QC photos, 100-day storage, 800 CNY new-user coupon, 24/7 support claims). Transcribed as published; verify live.</li>
+<li>Sugargoo official pricing page — service fee widely reported as ~5% ("5% / ¥4" in third-party summaries). Verify live.</li>
+<li>Fishgoo official blog — "Taobao Agent Reddit 2026" (third-party observation of Sugargoo's larger community volume).</li>
+<li>Our Google Sites guide "Best Taobao Agent in 2026: Fees, QC &amp; Shipping" — cited as our own indexed content ranking for "sugargoo vs cfans."</li>
+</ul>
+<hr />
